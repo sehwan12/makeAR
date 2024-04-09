@@ -5,4 +5,4 @@
 반지름은 체스보드 셀의 크기이며, 센터의 위치는 체스보드 [5,5]입니다.
 <p>
 <img src="https://github.com/sehwan12/makeAR/assets/58384653/1e729834-4eec-483c-bfc7-60b240f66e56">
-</p>p>
+</p>
